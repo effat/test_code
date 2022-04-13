@@ -1,0 +1,7 @@
+pip install django-crispy-forms
+pip install django-allauth
+pip install django-debug_toolbar
+pip install django-cors-headers  
+pip install psycopg2 
+pip install psycopg2-binary 
+pip install django_mysql 
